@@ -1,0 +1,14 @@
+
+
+.foodList{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+div{
+    border: solid 1px red;
+    padding: 1em;
+    margin: 1em;
+}
